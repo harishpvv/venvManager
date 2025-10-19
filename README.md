@@ -35,7 +35,7 @@ envm() {
 or
 
 ```
-source PATH_TO_ENVM.SH_FILE
+source PATH_TO_ENVM.BASH_FILE
 ```
 
 4. Reload your shell:
