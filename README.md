@@ -34,7 +34,8 @@ envm() {
 ```
 or
 
-```
+```bash
+# Add this at the end of your ~/.bashrc
 source PATH_TO_ENVM.BASH_FILE
 ```
 
